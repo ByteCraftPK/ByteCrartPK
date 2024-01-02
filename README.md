@@ -7,8 +7,8 @@
   <li>Web Development </li>
   <li>Artificial Intelligence</li>
   <li>Mobile Application Development</li>
-<li>Software Testing</li>
-<li>Cloud Computing</li>
+  <li>Software Testing</li>
+  <li>Cloud Computing</li>
 </ul>  
 
 - 📫 How to reach me **pranjalik189@gmail.com**
